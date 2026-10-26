@@ -36,7 +36,7 @@
 ## 📫 Connect With Me
 
 - [GitHub](https://github.com/Mattpascuall)
-- [LinkedIn]((https://www.linkedin.com/in/matt-francis-pascual-0a6b6732a/))
+- [LinkedIn](https://www.linkedin.com/in/matt-francis-pascual-0a6b6732a)
 
 ---
 
