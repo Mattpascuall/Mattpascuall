@@ -1,4 +1,3 @@
-# 
 # 👋 Hey, I'm Matt Francis M. Pascual!
 
 💻 I'm a first-year Computer Engineering student who enjoys learning programming and developing useful applications.
